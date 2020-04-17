@@ -1,5 +1,9 @@
 # csgo-discord-plugin
-This is just a simple plugin for SourceMod                       
+This is just a simple plugin for SourceMod           
+
+First of all I'm sorry, I'm Brazilian and my English is a beginner.
+
+Let's start!
 
 # [CSGO] Discord Server 
 
