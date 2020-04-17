@@ -32,6 +32,7 @@ If dont have a SourcePawn Editor, you need this firt.
 
 String: "\x09[\x04%s\x09]\x01 Nosso discord é: \x04%s"
 \x09, \x04 and \x01 Are the colors, you can change, just read [SourcePawnColor](https://forums.alliedmods.net/showthread.php?t=94187?t=94187)
+
 %s - This changes to the text variables, configured at the beginning.
 
 ### Prerequisites
