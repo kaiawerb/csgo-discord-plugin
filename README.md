@@ -12,19 +12,19 @@ The plugin is configured with this message(You can edit this opening "discord.sp
 Example: [CSGO] Our discord is discord.gg/invite/URL
 
 ## Getting Started
-
+```
 How install Plugin?
-
+```
 1. Download the plugin.
 2. Put him on addons/sourcemod/plugins.
 3. Start your server.
-
+```
 There is a way to edit a message and the chat prefix?
 
 Yes you can edit, follow the guide to edit.
 
 If dont have a SourcePawn Editor, you need this firt.
-
+```
 1. Download [SPEdit](https://spedit.info)
 2. Open "discord.sp"
 3. On the lines 8 and 9, have someone Strings, you can change this for you preferences
