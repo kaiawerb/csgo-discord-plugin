@@ -25,7 +25,14 @@ Yes you can edit, follow the guide to edit.
 
 If dont have a SourcePawn Editor, you need this firt.
 
-1. Download SPEdit(
+1. Download [SPEdit](https://spedit.info)
+2. Open "discord.sp"
+3. On the lines 8 and 9, have someone Strings, you can change this for you preferences
+4. On the line 26 you find the message format.
+
+String: "\x09[\x04%s\x09]\x01 Nosso discord é: \x04%s"
+\x09, \x04 and \x01 Are the colors, you can change, just read [SourcePawnColor]https://forums.alliedmods.net/showthread.php?t=94187?t=94187
+%s - This changes to the text variables, configured at the beginning.
 
 ### Prerequisites
 
